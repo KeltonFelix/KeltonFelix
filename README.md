@@ -1,63 +1,80 @@
+<!-- BANNER -->
 <p align="center">
-  <img src="c439f568-3e62-4f4a-8f15-77b3996a7b38.png" width="1300" height="500" />
+  <img src="c439f568-3e62-4f4a-8f15-77b3996a7b38.png" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Kelton Felix! 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+<h1 align="center">Olá 👋, eu sou Kelton Felix</h1>
+<h3 align="center">Estudante de Tecnologia da Informação | Futuro Desenvolvedor de Software</h3>
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB&left_color=0d1117&right_color=58a6ff" />
+</p>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+🎓 Sou estudante de **Tecnologia da Informação**, iniciando minha trajetória profissional na área de TI.  
+💡 Tenho grande interesse por tecnologia, lógica de programação e desenvolvimento de software.  
+🚀 Estou focado em construir uma base sólida em programação e boas práticas de desenvolvimento.  
+📚 Busco evolução constante através de estudos diários e projetos práticos.  
+🎯 Meu objetivo é me tornar um Desenvolvedor de Software altamente qualificado e atuar em projetos de grande impacto.
+
+Acredito que disciplina, consistência e prática são os pilares para crescer na área de tecnologia.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,java,github,vscode,windows&theme=dark" 
+    />
   </a>
 </p>
 
+---
 
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+## 📚 Atualmente Estudando
 
+- ☕ Java (POO e fundamentos de Backend)
+- 🌐 Desenvolvimento Web (HTML, CSS e JavaScript)
+- 🔧 Git e GitHub para controle de versão
+- 🧠 Lógica de Programação e Algoritmos
 
+---
 
+## 🎯 Objetivos Profissionais
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <!-- Left Column: Metrics -->
-    <div style="flex: 1; max-width: 45%;">
-        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/officialcodevoyage/officialcodevoyage/blob/main/github-metrics.svg">
-    </div>
+- 📌 Adquirir experiência prática por meio de projetos reais  
+- 📌 Contribuir para projetos open source  
+- 📌 Desenvolver habilidades sólidas em Backend e arquitetura de sistemas  
+- 📌 Ingressar no mercado como Desenvolvedor Júnior  
 
+---
 
-  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
-        <h3>🌐 Let's Connect and Grow Together!</h3>
-        <p>
-            <a href="https://www.linkedin.com/in/mrbondarenko/" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
-            </a>
-            </a>
-            <a href="https://www.youtube.com/@OfficialCodeVoyage" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
-            </a>
-            <a href="https://www.instagram.com/pasha.369.bond/" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
-            </a>
-        </p>
-        
-  <h3>✨ Fun Facts</h3>
-        <ul>
-            <li>I love Hackathons, Swimming and Tennis.</li>
-            <li>I’m on a journey to build a big house in Alaska!</li>
-            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
-        </ul>
-        
-  <h3>🧑‍💻 About Me</h3>
-        <p>
-            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
-            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
-            in physical activities like swimming and judo, or planning my next adventure. 
-        </p>
-        <p>
-            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
-        </p>
-    </div>
-</div>
+## 🌱 Desenvolvimento Pessoal
+
+- 🧠 Estudo diariamente para aprimorar minhas habilidades técnicas  
+- 🏋️ Busco disciplina e constância na minha evolução  
+- 📖 Estou sempre aberto a aprender novas tecnologias  
+
+---
+
+## 🌎 Conecte-se Comigo
+
+<p align="center">
+  <a href="SEU_LINK_LINKEDIN" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="40" />
+  </a>
+  <a href="SEU_LINK_INSTAGRAM" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 “Todo especialista um dia já foi iniciante.”
+</p>
