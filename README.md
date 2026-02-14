@@ -1,7 +1,6 @@
 
-[![Alt text](kwork_PavloBondarenko_12.jpg)](https://pavlobondarenko.net)
 
-<h1 align="center">Hi, I'm Pavlo Bondarenko! 👋 </h1>
+<h1 align="center">Hi, I'm Kelton Felix! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
