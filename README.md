@@ -1,98 +1,62 @@
-<!-- HEADER FUTURISTA -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0f2027,70:1a1a2e,100:00F7FF&height=260&section=header&text=KeltonFelix&fontSize=55&fontColor=00F7FF&animation=twinkling&fontAlignY=38"/>
-</p>
+
+[![Alt text](kwork_PavloBondarenko_12.jpg)](https://pavlobondarenko.net)
+
+<h1 align="center">Hi, I'm Pavlo Bondarenko! 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Solutions;Clean+Code+Advocate;Performance+Focused;Always+Learning"/>
-"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+  </a>
 </p>
 
----
 
-<!-- BADGES PREMIUM -->
-<p align="center">
-<img src="https://img.shields.io/github/followers/Kelton?style=for-the-badge&color=00F7FF&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/Kelton?style=for-the-badge&color=00F7FF&labelColor=000000"/>
-<img src="https://img.shields.io/github/commit-activity/m/SEUUSERNAME/SEUUSERNAME?style=for-the-badge&color=00F7FF&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Code-Clean-00F7FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Focus-Performance-00F7FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-</p>
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
----
 
-# 👨‍💻 ABOUT ME
 
-```yaml
-name: Kelton 
-role: Full Stack Developer
-location: Brazil
-main_stack:
-  - HTML
-  - CSS
-  - JavaScript
-tools:
-  - Git
-  - GitHub
-  - VS Code
-  - Windows
-currently_learning: Advanced JavaScript & Backend Architecture
-career_goal: Become a high-level Software Engineer
-mindset: Continuous improvement & scalable thinking
-```
 
----
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+    <!-- Left Column: Metrics -->
+    <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/officialcodevoyage/officialcodevoyage/blob/main/github-metrics.svg">
+    </div>
 
-# 🧠 TECH ECOSYSTEM
 
-## Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,java,css,js&theme=dark"/>
-</p>
-
-## Dev Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark"/>
-</p>
-
----
-
----
-
-# 🚀 FEATURED PROJECTS
-
-| Project | Description | Stack |
-|----------|------------|-------|
-| 🔗 [Project.1](https://github.com/SEUUSERNAME) | Scalable Web Application | React, Node |
-| 🔗 [Project.2](https://github.com/SEUUSERNAME) | REST API Architecture | Node.js, MongoDB |
-| 🔗 [Project.3](https://github.com/SEUUSERNAME) | Responsive Landing Page | HTML, CSS |
-
----
-
-# 🏆 PROFESSIONAL VALUES
-
-- ✔ Clean & readable code
-- ✔ Scalable architecture mindset
-- ✔ Version control discipline
-- ✔ Continuous technical evolution
-- ✔ Problem-solving driven
-
----
-
-# 📬 CONNECT WITH ME
-
-<p align="center">
-<a href="https://linkedin.com/in/SEUUSERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
-</a>
-<a href="mailto:seuemail@email.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,60:0f2027,100:000000&height=140&section=footer"/>
-</p>
+  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+        <h3>🌐 Let's Connect and Grow Together!</h3>
+        <p>
+            <a href="https://www.linkedin.com/in/mrbondarenko/" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
+            </a>
+            </a>
+            <a href="https://www.youtube.com/@OfficialCodeVoyage" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
+            </a>
+            <a href="https://www.instagram.com/pasha.369.bond/" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
+            </a>
+        </p>
+        
+  <h3>✨ Fun Facts</h3>
+        <ul>
+            <li>I love Hackathons, Swimming and Tennis.</li>
+            <li>I’m on a journey to build a big house in Alaska!</li>
+            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
+            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+        </ul>
+        
+  <h3>🧑‍💻 About Me</h3>
+        <p>
+            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
+            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
+            in physical activities like swimming and judo, or planning my next adventure. 
+        </p>
+        <p>
+            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
+            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
+        </p>
+    </div>
+</div>
