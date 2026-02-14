@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="c439f568-3e62-4f4a-8f15-77b3996a7b38.png" width="1300" height="500" />
+</p>
 
 <h1 align="center">Hi, I'm Kelton Felix! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
